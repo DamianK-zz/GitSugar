@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <action-recipes>
 
-	<action id="Git Add All” category="sugar.git">
+	<action id="Git Add All" category="sugar.git">
 		<class>OCShellAction</class>
 		<setup>
 			<script>git_addall.sh</script>
@@ -10,7 +10,7 @@
 		</setup>
 	</action>
 
-	<action id="Git Branch” category="sugar.git">
+	<action id="Git Branch" category="sugar.git">
 		<class>OCShellAction</class>
 		<setup>
 			<script>git_branch.sh</script>
@@ -19,7 +19,7 @@
 		</setup>
 	</action>
 
-	<action id="Git Commit” category="sugar.git">
+	<action id="Git Commit" category="sugar.git">
 		<class>OCShellAction</class>
 		<setup>
 			<script>git_commit.sh</script>
@@ -37,7 +37,7 @@
 		</setup>
 	</action>
 
-	<action id="Git Push” category="sugar.git">
+	<action id="Git Push" category="sugar.git">
 		<class>OCShellAction</class>
 		<setup>
 			<script>git_push.sh</script>
