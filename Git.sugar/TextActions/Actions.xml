@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<action-recipes>
+
+	<action id="Git Add All” category="sugar.git">
+		<class>OCShellAction</class>
+		<setup>
+			<script>git_addall.sh</script>
+			<input>nothing</input>
+			<output>console</output>
+		</setup>
+	</action>
+
+	<action id="Git Branch” category="sugar.git">
+		<class>OCShellAction</class>
+		<setup>
+			<script>git_branch.sh</script>
+			<input>nothing</input>
+			<output>console</output>
+		</setup>
+	</action>
+
+	<action id="Git Commit” category="sugar.git">
+		<class>OCShellAction</class>
+		<setup>
+			<script>git_commit.sh</script>
+			<input>nothing</input>
+			<output>console</output>
+		</setup>
+	</action>
+
+	<action id="Git Pull" category="sugar.git">
+		<class>OCShellAction</class>
+		<setup>
+			<script>git_pull.sh</script>
+			<input>nothing</input>
+			<output>console</output>
+		</setup>
+	</action>
+
+	<action id="Git Push” category="sugar.git">
+		<class>OCShellAction</class>
+		<setup>
+			<script>git_push.sh</script>
+			<input>nothing</input>
+			<output>console</output>
+		</setup>
+	</action>
+
+	
+	<action id="Git Status" category="sugar.git">
+		<class>OCShellAction</class>
+		<setup>
+			<script>git_status.sh</script>
+			<input>nothing</input>
+			<output>console</output>
+		</setup>
+	</action>
+
+
+		
+</action-recipes>

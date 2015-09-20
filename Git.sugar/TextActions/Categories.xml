@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<action-categories>
+	<category id="sugar.git" show="sub">
+		<title>Git</title>
+	</category>
+</action-categories>
