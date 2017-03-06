@@ -1,5 +1,6 @@
 Git.sugar for Espresso
 =============================
+NOTE: This repo is old and not mantained any more, but it should still work.
 
 **Requires [ShellActions.sugar](https://github.com/onecrayon/ShellActions-sugar)**
 
